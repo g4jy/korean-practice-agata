@@ -1,0 +1,372 @@
+{
+  "student": "Agata",
+  "action": {
+    "subjects": [
+      {
+        "kr": "\uc800\ub294",
+        "rom": "JEO-NEUN",
+        "en": "I"
+      },
+      {
+        "kr": "\uc6b0\ub9ac\ub294",
+        "rom": "U-RI-NEUN",
+        "en": "We"
+      }
+    ],
+    "times": [
+      {
+        "kr": "\uc5b4\uc81c",
+        "rom": "EO-JE",
+        "en": "yesterday",
+        "tense": "past"
+      },
+      {
+        "kr": "\uc624\ub298",
+        "rom": "O-NEUL",
+        "en": "today",
+        "tense": "present"
+      },
+      {
+        "kr": "\ub0b4\uc77c",
+        "rom": "NAE-IL",
+        "en": "tomorrow",
+        "tense": "future"
+      }
+    ],
+    "places": [
+      {
+        "kr": "\uce74\ud398",
+        "rom": "KA-PE",
+        "en": "cafe",
+        "formE": { "kr": "\uce74\ud398\uc5d0", "rom": "KA-PE-E" },
+        "formEseo": { "kr": "\uce74\ud398\uc5d0\uc11c", "rom": "KA-PE-E-SEO" }
+      },
+      {
+        "kr": "\uc2dd\ub2f9",
+        "rom": "SIK-DANG",
+        "en": "restaurant",
+        "formE": { "kr": "\uc2dd\ub2f9\uc5d0", "rom": "SIK-DANG-E" },
+        "formEseo": { "kr": "\uc2dd\ub2f9\uc5d0\uc11c", "rom": "SIK-DANG-E-SEO" }
+      },
+      {
+        "kr": "\uc9d1",
+        "rom": "JIP",
+        "en": "home",
+        "formE": { "kr": "\uc9d1\uc5d0", "rom": "JIB-E" },
+        "formEseo": { "kr": "\uc9d1\uc5d0\uc11c", "rom": "JIB-E-SEO" }
+      },
+      {
+        "kr": "\ud559\uad50",
+        "rom": "HAK-GYO",
+        "en": "school",
+        "formE": { "kr": "\ud559\uad50\uc5d0", "rom": "HAK-GYO-E" },
+        "formEseo": { "kr": "\ud559\uad50\uc5d0\uc11c", "rom": "HAK-GYO-E-SEO" }
+      },
+      {
+        "kr": "\uccb4\uc721\uad00",
+        "rom": "CHE-YUK-GWAN",
+        "en": "gym",
+        "formE": { "kr": "\uccb4\uc721\uad00\uc5d0", "rom": "CHE-YUK-GWAN-E" },
+        "formEseo": { "kr": "\uccb4\uc721\uad00\uc5d0\uc11c", "rom": "CHE-YUK-GWAN-E-SEO" }
+      },
+      {
+        "kr": "\uacf5\uc6d0",
+        "rom": "GONG-WON",
+        "en": "park",
+        "formE": { "kr": "\uacf5\uc6d0\uc5d0", "rom": "GONG-WON-E" },
+        "formEseo": { "kr": "\uacf5\uc6d0\uc5d0\uc11c", "rom": "GONG-WON-E-SEO" }
+      }
+    ],
+    "objects": [
+      {
+        "kr": "\ucee4\ud53c\ub97c",
+        "rom": "KEO-PI-REUL",
+        "en": "coffee",
+        "category": "drink"
+      },
+      {
+        "kr": "\ubb3c\uc744",
+        "rom": "MUL-EUL",
+        "en": "water",
+        "category": "drink"
+      },
+      {
+        "kr": "\ubc25\uc744",
+        "rom": "BAB-EUL",
+        "en": "rice/meal",
+        "category": "food"
+      },
+      {
+        "kr": "\uacfc\uc790\ub97c",
+        "rom": "GWA-JA-REUL",
+        "en": "snack",
+        "category": "food"
+      },
+      {
+        "kr": "\uc218\ubc15\uc744",
+        "rom": "SU-BAK-EUL",
+        "en": "watermelon",
+        "category": "food"
+      },
+      {
+        "kr": "\uc120\ubb3c\uc744",
+        "rom": "SEON-MUL-EUL",
+        "en": "gift",
+        "category": "thing"
+      }
+    ],
+    "verbs": [
+      {
+        "en": "go",
+        "present": "\uac00\uc694",
+        "presentRom": "GA-YO",
+        "past": "\uac14\uc5b4\uc694",
+        "pastRom": "GASS-EO-YO",
+        "pastEn": "went",
+        "future": "\uac08 \uac70\uc608\uc694",
+        "futureRom": "GAL GGEO-YE-YO",
+        "futureEn": "will go",
+        "compatibleObjects": []
+      },
+      {
+        "en": "come",
+        "present": "\uc640\uc694",
+        "presentRom": "WA-YO",
+        "past": "\uc654\uc5b4\uc694",
+        "pastRom": "WASS-EO-YO",
+        "pastEn": "came",
+        "future": "\uc62c \uac70\uc608\uc694",
+        "futureRom": "OL GGEO-YE-YO",
+        "futureEn": "will come",
+        "compatibleObjects": []
+      },
+      {
+        "en": "eat",
+        "present": "\uba39\uc5b4\uc694",
+        "presentRom": "MEOG-EO-YO",
+        "past": "\uba39\uc5c8\uc5b4\uc694",
+        "pastRom": "MEOG-EOSS-EO-YO",
+        "pastEn": "ate",
+        "future": "\uba39\uc744 \uac70\uc608\uc694",
+        "futureRom": "MEOG-EUL GGEO-YE-YO",
+        "futureEn": "will eat",
+        "compatibleObjects": ["\ubc25\uc744", "\uacfc\uc790\ub97c", "\uc218\ubc15\uc744"]
+      },
+      {
+        "en": "drink",
+        "present": "\ub9c8\uc154\uc694",
+        "presentRom": "MA-SYEO-YO",
+        "past": "\ub9c8\uc168\uc5b4\uc694",
+        "pastRom": "MA-SYEOSS-EO-YO",
+        "pastEn": "drank",
+        "future": "\ub9c8\uc2e4 \uac70\uc608\uc694",
+        "futureRom": "MA-SIL GGEO-YE-YO",
+        "futureEn": "will drink",
+        "compatibleObjects": ["\ucee4\ud53c\ub97c", "\ubb3c\uc744"]
+      },
+      {
+        "en": "buy",
+        "present": "\uc0ac\uc694",
+        "presentRom": "SA-YO",
+        "past": "\uc0c0\uc5b4\uc694",
+        "pastRom": "SASS-EO-YO",
+        "pastEn": "bought",
+        "future": "\uc0b4 \uac70\uc608\uc694",
+        "futureRom": "SAL GGEO-YE-YO",
+        "futureEn": "will buy",
+        "compatibleObjects": ["\ucee4\ud53c\ub97c", "\uacfc\uc790\ub97c", "\uc218\ubc15\uc744", "\uc120\ubb3c\uc744"]
+      },
+      {
+        "en": "give",
+        "present": "\uc918\uc694",
+        "presentRom": "JWEO-YO",
+        "past": "\uc92c\uc5b4\uc694",
+        "pastRom": "JWEOSS-EO-YO",
+        "pastEn": "gave",
+        "future": "\uc904 \uac70\uc608\uc694",
+        "futureRom": "JUL GGEO-YE-YO",
+        "futureEn": "will give",
+        "compatibleObjects": ["\ucee4\ud53c\ub97c", "\uc120\ubb3c\uc744"]
+      },
+      {
+        "en": "receive",
+        "present": "\ubc1b\uc544\uc694",
+        "presentRom": "BAD-A-YO",
+        "past": "\ubc1b\uc558\uc5b4\uc694",
+        "pastRom": "BAD-ASS-EO-YO",
+        "pastEn": "received",
+        "future": "\ubc1b\uc744 \uac70\uc608\uc694",
+        "futureRom": "BAD-EUL GGEO-YE-YO",
+        "futureEn": "will receive",
+        "compatibleObjects": ["\uc120\ubb3c\uc744"]
+      }
+    ]
+  },
+  "describe": {
+    "subjects": [
+      {
+        "kr": "\ucee4\ud53c\uac00",
+        "rom": "KEO-PI-GA",
+        "en": "Coffee",
+        "category": "drink",
+        "compatibleAdj": ["\ub9db\uc788\uc5b4\uc694", "\ub728\uac70\uc6cc\uc694", "\ucc28\uac00\uc6cc\uc694"]
+      },
+      {
+        "kr": "\ubb3c\uc774",
+        "rom": "MUL-I",
+        "en": "Water",
+        "category": "drink",
+        "compatibleAdj": ["\ucc28\uac00\uc6cc\uc694"]
+      },
+      {
+        "kr": "\ubc25\uc774",
+        "rom": "BAB-I",
+        "en": "Rice",
+        "category": "food",
+        "compatibleAdj": ["\ub9db\uc788\uc5b4\uc694", "\ub728\uac70\uc6cc\uc694"]
+      },
+      {
+        "kr": "\uacfc\uc790\uac00",
+        "rom": "GWA-JA-GA",
+        "en": "Snack",
+        "category": "food",
+        "compatibleAdj": ["\ub9db\uc788\uc5b4\uc694"]
+      },
+      {
+        "kr": "\ub0a0\uc528\uac00",
+        "rom": "NAL-SSI-GA",
+        "en": "Weather",
+        "category": "weather",
+        "compatibleAdj": ["\uc88b\uc544\uc694"]
+      },
+      {
+        "kr": "\ud55c\uad6d\uc5b4\uac00",
+        "rom": "HAN-GUG-EO-GA",
+        "en": "Korean",
+        "category": "thing",
+        "compatibleAdj": ["\uc5b4\ub824\uc6cc\uc694", "\uc7ac\ubbf8\uc788\uc5b4\uc694"]
+      }
+    ],
+    "adjectives": [
+      {
+        "kr": "\ub9db\uc788\uc5b4\uc694",
+        "rom": "MAS-ISS-EO-YO",
+        "en": "delicious"
+      },
+      {
+        "kr": "\ub728\uac70\uc6cc\uc694",
+        "rom": "TTEU-GEO-WO-YO",
+        "en": "hot"
+      },
+      {
+        "kr": "\ucc28\uac00\uc6cc\uc694",
+        "rom": "CHA-GA-WO-YO",
+        "en": "cold"
+      },
+      {
+        "kr": "\uc88b\uc544\uc694",
+        "rom": "JO-A-YO",
+        "en": "good / I like it"
+      },
+      {
+        "kr": "\uc5b4\ub824\uc6cc\uc694",
+        "rom": "EO-RYEO-WO-YO",
+        "en": "difficult"
+      },
+      {
+        "kr": "\uc7ac\ubbf8\uc788\uc5b4\uc694",
+        "rom": "JAE-MI-ISS-EO-YO",
+        "en": "fun / interesting"
+      },
+      {
+        "kr": "\ud53c\uacf4\ud574\uc694",
+        "rom": "PI-GON-HAE-YO",
+        "en": "tired"
+      }
+    ],
+    "adverbs": [
+      {
+        "kr": "\ub108\ubb34",
+        "rom": "NEO-MU",
+        "en": "too / very"
+      },
+      {
+        "kr": "\uc815\ub9d0",
+        "rom": "JEONG-MAL",
+        "en": "really"
+      },
+      {
+        "kr": "\uc870\uae08",
+        "rom": "JO-GEUM",
+        "en": "a little"
+      },
+      {
+        "kr": "\uc544\uc9c1",
+        "rom": "A-JIK",
+        "en": "still"
+      }
+    ]
+  },
+  "flashcards": {
+    "categories": [
+      {
+        "name": "Greetings",
+        "cards": [
+          { "kr": "\uc548\ub155\ud558\uc138\uc694", "rom": "AN-NYEONG-HA-SE-YO", "en": "Hello" },
+          { "kr": "\uac10\uc0ac\ud569\ub2c8\ub2e4", "rom": "GAM-SA-HAM-NI-DA", "en": "Thank you" },
+          { "kr": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4", "rom": "JOE-SONG-HAM-NI-DA", "en": "I'm sorry" },
+          { "kr": "\ub124", "rom": "NE", "en": "Yes" },
+          { "kr": "\uc544\ub2c8\uc694", "rom": "A-NI-YO", "en": "No" }
+        ]
+      },
+      {
+        "name": "Time",
+        "cards": [
+          { "kr": "\uc544\uce68", "rom": "A-CHIM", "en": "morning" },
+          { "kr": "\uc810\uc2ec", "rom": "JEOM-SIM", "en": "lunch / noon" },
+          { "kr": "\uc800\ub141", "rom": "JEO-NYEOK", "en": "evening" },
+          { "kr": "\uc9c0\uae08", "rom": "JI-GEUM", "en": "now" },
+          { "kr": "\uc8fc\ub9d0", "rom": "JU-MAL", "en": "weekend" },
+          { "kr": "\ub9e4\uc77c", "rom": "MAE-IL", "en": "every day" },
+          { "kr": "\uc624\uc804", "rom": "O-JEON", "en": "AM / morning" },
+          { "kr": "\uc624\ud6c4", "rom": "O-HU", "en": "PM / afternoon" }
+        ]
+      },
+      {
+        "name": "Emotions",
+        "cards": [
+          { "kr": "\uae30\ubd84\uc774 \uc88b\uc544\uc694", "rom": "GI-BUN-I JO-A-YO", "en": "I feel good" },
+          { "kr": "\ud53c\uacf4\ud574\uc694", "rom": "PI-GON-HAE-YO", "en": "I'm tired" },
+          { "kr": "\ubc30\uace0\ud30c\uc694", "rom": "BAE-GO-PA-YO", "en": "I'm hungry" },
+          { "kr": "\uae30\uc058\uc694", "rom": "GI-PPEO-YO", "en": "I'm happy" },
+          { "kr": "\uc2ac\ud37c\uc694", "rom": "SEUL-PEO-YO", "en": "I'm sad" },
+          { "kr": "\ubaab\uc774 \uc544\ud30c\uc694", "rom": "MOM-I A-PA-YO", "en": "I'm sick / My body hurts" }
+        ]
+      },
+      {
+        "name": "Connectors",
+        "cards": [
+          { "kr": "\uadf8\ub9ac\uace0", "rom": "GEU-RI-GO", "en": "and / and then" },
+          { "kr": "\uadf8\ub7f0\ub370", "rom": "GEU-REON-DE", "en": "but / by the way" },
+          { "kr": "\uadf8\ub798\uc11c", "rom": "GEU-RAE-SEO", "en": "so / therefore" },
+          { "kr": "\uc65c\ub0d0\ud558\uba74", "rom": "WAE-NYA-HA-MYEON", "en": "because" }
+        ]
+      },
+      {
+        "name": "Numbers",
+        "cards": [
+          { "kr": "\ud558\ub098", "rom": "HA-NA", "en": "one" },
+          { "kr": "\ub458", "rom": "DUL", "en": "two" },
+          { "kr": "\uc14b", "rom": "SET", "en": "three" },
+          { "kr": "\ub137", "rom": "NET", "en": "four" },
+          { "kr": "\ub2e4\uc12f", "rom": "DA-SEOT", "en": "five" },
+          { "kr": "\uc5ec\uc12f", "rom": "YEO-SEOT", "en": "six" },
+          { "kr": "\uc77c\uacf1", "rom": "IL-GOP", "en": "seven" },
+          { "kr": "\uc5ec\ub35f", "rom": "YEO-DEOL", "en": "eight" },
+          { "kr": "\uc544\ud649", "rom": "A-HOP", "en": "nine" },
+          { "kr": "\uc5f4", "rom": "YEOL", "en": "ten" }
+        ]
+      }
+    ]
+  }
+}
