@@ -221,6 +221,108 @@
         "rom": "",
         "en": "Chocolate",
         "category": "general"
+      },
+      {
+        "kr": "가게",
+        "rom": "GA-GE",
+        "en": "store / shop",
+        "category": "general"
+      },
+      {
+        "kr": "케이크",
+        "rom": "KE-I-KU",
+        "en": "cake",
+        "category": "general"
+      },
+      {
+        "kr": "생일",
+        "rom": "SAENG-IL",
+        "en": "birthday",
+        "category": "general"
+      },
+      {
+        "kr": "아침",
+        "rom": "A-CHIM",
+        "en": "morning / breakfast",
+        "category": "general"
+      },
+      {
+        "kr": "아이들",
+        "rom": "A-I-DEUL",
+        "en": "children",
+        "category": "general"
+      },
+      {
+        "kr": "남편",
+        "rom": "NAM-PYEON",
+        "en": "husband",
+        "category": "general"
+      },
+      {
+        "kr": "여행",
+        "rom": "YEO-HAENG",
+        "en": "travel / trip",
+        "category": "general"
+      },
+      {
+        "kr": "할머니",
+        "rom": "HAL-MEO-NI",
+        "en": "grandmother",
+        "category": "general"
+      },
+      {
+        "kr": "할아버지",
+        "rom": "HAL-A-BEO-JI",
+        "en": "grandfather",
+        "category": "general"
+      },
+      {
+        "kr": "그림",
+        "rom": "GEU-RIM",
+        "en": "drawing / picture",
+        "category": "general"
+      },
+      {
+        "kr": "마음",
+        "rom": "MA-EUM",
+        "en": "heart / mind / feeling",
+        "category": "general"
+      },
+      {
+        "kr": "유치원",
+        "rom": "YU-CHI-WON",
+        "en": "kindergarten",
+        "category": "general"
+      },
+      {
+        "kr": "아저씨",
+        "rom": "A-JEO-SSI",
+        "en": "middle-aged man / mister (honorific)",
+        "category": "general"
+      },
+      {
+        "kr": "매일",
+        "rom": "MAE-IL",
+        "en": "every day",
+        "category": "general"
+      },
+      {
+        "kr": "요즘",
+        "rom": "YO-JEUM",
+        "en": "these days",
+        "category": "general"
+      },
+      {
+        "kr": "계속",
+        "rom": "GYE-SOK",
+        "en": "continuously / still",
+        "category": "general"
+      },
+      {
+        "kr": "옆에",
+        "rom": "YEOP-E",
+        "en": "next to / beside",
+        "category": "general"
       }
     ],
     "verbs": [
@@ -358,6 +460,102 @@
         "future": "쓸 거예요",
         "futureRom": "SSEUL GGEO-YE-YO",
         "futureEn": "will write"
+      },
+      {
+        "id": "ireonada",
+        "en": "get up/wake up",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "일어났어요",
+        "pastRom": "IR-EO-NA-SSEO-YO",
+        "pastEn": "got up",
+        "present": "일어나요",
+        "presentRom": "IR-EO-NA-YO",
+        "presentEn": "get up",
+        "future": "일어날 거예요",
+        "futureRom": "IR-EO-NAL GGEO-YE-YO",
+        "futureEn": "will get up"
+      },
+      {
+        "id": "masida",
+        "en": "drink",
+        "objectTypes": [
+          "drink"
+        ],
+        "placeParticle": "eseo",
+        "past": "마셨어요",
+        "pastRom": "MA-SYEO-SSEO-YO",
+        "pastEn": "drank",
+        "present": "마셔요",
+        "presentRom": "MA-SYEO-YO",
+        "presentEn": "drink",
+        "future": "마실 거예요",
+        "futureRom": "MA-SIL GGEO-YE-YO",
+        "futureEn": "will drink"
+      },
+      {
+        "id": "boda",
+        "en": "watch/see",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "봤어요",
+        "pastRom": "BWA-SSEO-YO",
+        "pastEn": "watched",
+        "present": "봐요",
+        "presentRom": "BWA-YO",
+        "presentEn": "watch",
+        "future": "볼 거예요",
+        "futureRom": "BOL GGEO-YE-YO",
+        "futureEn": "will watch"
+      },
+      {
+        "id": "ilkda",
+        "en": "read",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "읽었어요",
+        "pastRom": "IL-GEO-SSEO-YO",
+        "pastEn": "read",
+        "present": "읽어요",
+        "presentRom": "IL-GEO-YO",
+        "presentEn": "read",
+        "future": "읽을 거예요",
+        "futureRom": "IL-GEUL GGEO-YE-YO",
+        "futureEn": "will read"
+      },
+      {
+        "id": "malhada",
+        "en": "speak/say",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "말했어요",
+        "pastRom": "MAL-HAE-SSEO-YO",
+        "pastEn": "said",
+        "present": "말해요",
+        "presentRom": "MAL-HAE-YO",
+        "presentEn": "say",
+        "future": "말할 거예요",
+        "futureRom": "MAL-HAL GGEO-YE-YO",
+        "futureEn": "will say"
+      },
+      {
+        "id": "oda",
+        "en": "come",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "past": "왔어요",
+        "pastRom": "WA-SSEO-YO",
+        "pastEn": "came",
+        "present": "와요",
+        "presentRom": "WA-YO",
+        "presentEn": "come",
+        "future": "올 거예요",
+        "futureRom": "OL GGEO-YE-YO",
+        "futureEn": "will come"
       }
     ]
   },
@@ -470,6 +668,108 @@
         "rom": "",
         "en": "Chocolate",
         "category": "general"
+      },
+      {
+        "kr": "가게",
+        "rom": "GA-GE",
+        "en": "Store / shop",
+        "category": "general"
+      },
+      {
+        "kr": "케이크",
+        "rom": "KE-I-KU",
+        "en": "Cake",
+        "category": "general"
+      },
+      {
+        "kr": "생일",
+        "rom": "SAENG-IL",
+        "en": "Birthday",
+        "category": "general"
+      },
+      {
+        "kr": "아침",
+        "rom": "A-CHIM",
+        "en": "Morning / breakfast",
+        "category": "general"
+      },
+      {
+        "kr": "아이들",
+        "rom": "A-I-DEUL",
+        "en": "Children",
+        "category": "general"
+      },
+      {
+        "kr": "남편",
+        "rom": "NAM-PYEON",
+        "en": "Husband",
+        "category": "general"
+      },
+      {
+        "kr": "여행",
+        "rom": "YEO-HAENG",
+        "en": "Travel / trip",
+        "category": "general"
+      },
+      {
+        "kr": "할머니",
+        "rom": "HAL-MEO-NI",
+        "en": "Grandmother",
+        "category": "general"
+      },
+      {
+        "kr": "할아버지",
+        "rom": "HAL-A-BEO-JI",
+        "en": "Grandfather",
+        "category": "general"
+      },
+      {
+        "kr": "그림",
+        "rom": "GEU-RIM",
+        "en": "Drawing / picture",
+        "category": "general"
+      },
+      {
+        "kr": "마음",
+        "rom": "MA-EUM",
+        "en": "Heart / mind / feeling",
+        "category": "general"
+      },
+      {
+        "kr": "유치원",
+        "rom": "YU-CHI-WON",
+        "en": "Kindergarten",
+        "category": "general"
+      },
+      {
+        "kr": "아저씨",
+        "rom": "A-JEO-SSI",
+        "en": "Middle-aged man / mister (honorific)",
+        "category": "general"
+      },
+      {
+        "kr": "매일",
+        "rom": "MAE-IL",
+        "en": "Every day",
+        "category": "general"
+      },
+      {
+        "kr": "요즘",
+        "rom": "YO-JEUM",
+        "en": "These days",
+        "category": "general"
+      },
+      {
+        "kr": "계속",
+        "rom": "GYE-SOK",
+        "en": "Continuously / still",
+        "category": "general"
+      },
+      {
+        "kr": "옆에",
+        "rom": "YEOP-E",
+        "en": "Next to / beside",
+        "category": "general"
       }
     ],
     "adjectives": [
@@ -563,6 +863,76 @@
         "kr": "달콤해요",
         "rom": "",
         "en": "Sweet",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_expensive",
+        "kr": "비싸다",
+        "rom": "BI-SSA-DA",
+        "en": "to be expensive",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_cute",
+        "kr": "귀엽다",
+        "rom": "GWI-YEOP-DA",
+        "en": "to be cute",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_sick___hurt",
+        "kr": "아프다",
+        "rom": "A-PEU-DA",
+        "en": "to be sick / hurt",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_fun___interesting",
+        "kr": "재미있다",
+        "rom": "JAE-MI-IT-DA",
+        "en": "to be fun / interesting",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_hard___difficult",
+        "kr": "힘들다",
+        "rom": "HIM-DEUL-DA",
+        "en": "to be hard / difficult",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_warm",
+        "kr": "따뜻하다",
+        "rom": "TTA-TTEUT-HA-DA",
+        "en": "to be warm",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_happy___glad",
+        "kr": "기쁘다",
+        "rom": "GI-PPEU-DA",
+        "en": "to be happy / glad",
         "compatibleSubjects": [
           "food",
           "drink"
@@ -821,6 +1191,21 @@
             "kr": "친구",
             "rom": "",
             "en": "Friend"
+          },
+          {
+            "kr": "놓다",
+            "rom": "NO-TA",
+            "en": "to place / put down"
+          },
+          {
+            "kr": "데려오다",
+            "rom": "DE-RYEO-O-DA",
+            "en": "to bring (a person)"
+          },
+          {
+            "kr": "웃다",
+            "rom": "US-DA",
+            "en": "to laugh / smile"
           }
         ]
       },
@@ -896,6 +1281,46 @@
             "kr": "수박 맛있어요. 달콤해요.",
             "rom": "",
             "en": "Watermelon is delicious. It's sweet."
+          },
+          {
+            "kr": "생일 축하해요",
+            "rom": "SAENG-IL CHU-KA-HAE-YO",
+            "en": "Happy birthday"
+          },
+          {
+            "kr": "축하드립니다",
+            "rom": "CHU-KA-DEU-RIM-NI-DA",
+            "en": "Congratulations (formal)"
+          },
+          {
+            "kr": "정말",
+            "rom": "JEONG-MAL",
+            "en": "really / truly"
+          },
+          {
+            "kr": "마음이 따뜻해졌어요",
+            "rom": "MA-EUM-I TTA-TTEUT-HAE-JYEOSS-EO-YO",
+            "en": "My heart became warm"
+          },
+          {
+            "kr": "힘들어도 계속",
+            "rom": "HIM-DEUL-EO-DO GYE-SOK",
+            "en": "even though it's hard, still (keep going)"
+          },
+          {
+            "kr": "주는 것이 좋아요",
+            "rom": "JU-NEUN GEOT-I JO-A-YO",
+            "en": "I like giving ~"
+          },
+          {
+            "kr": "매일 아침",
+            "rom": "MAE-IL A-CHIM",
+            "en": "every morning"
+          },
+          {
+            "kr": "저에게",
+            "rom": "JEO-E-GE",
+            "en": "to me (recipient marker)"
           }
         ]
       }
